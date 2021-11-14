@@ -15,6 +15,7 @@
   <tr><td>PHP plugins</td><td>TCPDF, PHPMailer, getID3</td></tr>
   <tr><td>Web development</td><td>HTML, CSS, Javascript, jQuery</td></tr>
   <tr><td>Web services</td><td>AJAX, SOAP, XML, XSD, XSL, JSON</td></tr>
+  <tr><td>CMS/CRM</td><td>Joomla, Oracle Apex, Salesforce</td></tr>
   <tr><td>Other</td><td>RegEx, Design Patterns</td></tr>
   <tr><td>Common</td><td>Interfaces, Conversions, Algorithms, Finance, Logistics</td></tr>
   <tr><td>Scripting</td><td>PowerShell, VBAScript, Word, Excel, AdminScript</td></tr>
