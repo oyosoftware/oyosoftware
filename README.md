@@ -8,7 +8,7 @@
 </ul>
 <h2>Skills</h2>
 <table>
-  <tr><td><strong>Technique</strong></td><td><strong>Terms</strong></td></tr>
+  <tr><td><strong>Category</strong></td><td><strong>Techniques</strong></td></tr>
   <tr><td>Development</td><td>RPG, LANSA, PHP, Servoy, C#, Access</td></tr>
   <tr><td>Development tools</td><td>NetBeans, Eclipse, Visual Studio, Visual RPG, Visual LANSA</td></tr>
   <tr><td>PHP extensions</td><td>mysqli, mbstring, odbc, pdo, curl, exif, soap, fileinfo, zip</td></tr>
