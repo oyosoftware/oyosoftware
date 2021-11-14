@@ -16,12 +16,12 @@
   <tr><td>Web development</td><td>HTML, CSS, Javascript, jQuery</td></tr>
   <tr><td>Web services</td><td>AJAX, SOAP, XML, XSD, XSL, JSON</td></tr>
   <tr><td>Other</td><td>RegEx, Design Patterns</td></tr>
-  <tr><td>Common</td>Interfaces, Conversions, Algorithms, Finance, Logistics<td></td></tr>
+  <tr><td>Common</td><td>Interfaces, Conversions, Algorithms, Finance, Logistics</td></tr>
   <tr><td>Scripting</td><td>PowerShell, VBAScript, Word, Excel, AdminScript</td></tr>
   <tr><td>Reporting</td><td>Business Objects, JasperSoft, Crystal Reports</td></tr>
-  <tr><td>Database management</td>SQL, scripting<td></td></tr>
+  <tr><td>Database management</td><td>SQL, scripting</td></tr>
   <tr><td>SQL</td><td>DB400, MySQL, T-SQL, PostgreSQL, Advantage</td></tr>
   <tr><td>SQL tools</td><td>MySQL Workbench, pgAdmin, Advantage Data Architect</td></tr>
-  <tr><td>System administration</td>Windows, Linux, Active Directory, Netwerken, TCP, DNS, VPN<td></td></tr>
+  <tr><td>System administration</td><td>Windows, Linux, Active Directory, Netwerken, TCP, DNS, VPN</td></tr>
   <tr><td>Servers</td><td>Apache, SQL Server</td></tr>
 </table>
