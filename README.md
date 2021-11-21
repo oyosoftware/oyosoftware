@@ -4,7 +4,7 @@
   <li>👀 I’m interested in developing for the web</li>
   <li>🌱 I’m currently learning more and more techniques involving the web, my priority is now learning ECMA</li>
   <li>💞️ I’m looking to collaborate on any job that I'm capable of</li>
-  <li>📫 How to reach me <a href="mailto:code@oyosoftware.nl">code@oyosoftware.nl</a></li>
+  <li>📫 How to reach me <a href="mailto:code@oyosoftware.nl">code@oyosoftware.nl?subject=[GitHub]</a></li>
 </ul>
 <h2>Skills</h2>
 <table>
